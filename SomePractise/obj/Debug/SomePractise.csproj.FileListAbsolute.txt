@@ -1,0 +1,6 @@
+D:\Soft Uni\Visual Studio 2015 Projects\Practise\SomePractise\bin\Debug\SomePractise.exe.config
+D:\Soft Uni\Visual Studio 2015 Projects\Practise\SomePractise\bin\Debug\SomePractise.exe
+D:\Soft Uni\Visual Studio 2015 Projects\Practise\SomePractise\bin\Debug\SomePractise.pdb
+D:\Soft Uni\Visual Studio 2015 Projects\Practise\SomePractise\obj\Debug\SomePractise.csprojResolveAssemblyReference.cache
+D:\Soft Uni\Visual Studio 2015 Projects\Practise\SomePractise\obj\Debug\SomePractise.exe
+D:\Soft Uni\Visual Studio 2015 Projects\Practise\SomePractise\obj\Debug\SomePractise.pdb

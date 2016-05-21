@@ -1,6 +1,0 @@
-D:\Soft Uni\Visual Studio 2015 Projects\Practise\10. Filled Square\bin\Debug\_10.Filled_Square.exe.config
-D:\Soft Uni\Visual Studio 2015 Projects\Practise\10. Filled Square\bin\Debug\_10.Filled_Square.exe
-D:\Soft Uni\Visual Studio 2015 Projects\Practise\10. Filled Square\bin\Debug\_10.Filled_Square.pdb
-D:\Soft Uni\Visual Studio 2015 Projects\Practise\10. Filled Square\obj\Debug\10. Filled Square.csprojResolveAssemblyReference.cache
-D:\Soft Uni\Visual Studio 2015 Projects\Practise\10. Filled Square\obj\Debug\_10.Filled_Square.exe
-D:\Soft Uni\Visual Studio 2015 Projects\Practise\10. Filled Square\obj\Debug\_10.Filled_Square.pdb
